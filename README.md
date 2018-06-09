@@ -8,4 +8,4 @@ The folder "Data" shows the sample of the training data folder which contains su
 
 3.Run test.m
 
-If you have any queries feel free to drop a mail to manusai.maanoj@gmail.com 
+If you have any queries feel free to drop a mail to manusai.manoj@gmail.com 
